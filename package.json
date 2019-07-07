@@ -33,10 +33,10 @@
       "git add"
     ]
   },
-  "name": "todo-auth",
+  "name": "node-express-es6-template",
   "version": "1.0.0",
-  "description": "Auth api for todo-app",
-  "main": "index.js",
+  "description": "Node express es6 modules (using esm) templates",
+  "main": "start.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sanguino/todo-auth.git"
