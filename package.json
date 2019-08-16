@@ -12,7 +12,7 @@
     "start": "node start.js"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.0.0",
+    "@commitlint/cli": "^8.1.0",
     "@commitlint/config-conventional": "^8.0.0",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
@@ -51,7 +51,6 @@
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "esm": "^3.2.25",
-    "express": "~4.16.1",
-    "morgan": "~1.9.1"
+    "express": "~4.16.1"
   }
 }
