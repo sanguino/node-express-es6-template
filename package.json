@@ -48,9 +48,13 @@
   },
   "homepage": "https://github.com/sanguino/todo-auth#readme",
   "dependencies": {
+    "@hapi/boom": "^8.0.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "esm": "^3.2.25",
-    "express": "~4.16.1"
+    "express": "~4.16.1",
+    "express-validation": "^1.0.3",
+    "joi": "^14.3.1",
+    "morgan": "^1.9.1"
   }
 }
